@@ -14,7 +14,7 @@ El propósito de este repositorio es permitir a cualquier persona replicar el tr
 
 ## Código 
 
-Incluimos ejemplos de uso en lenguaje `Python` en el siguiente _Jupyter Notebook_: [`mapa-de-dependencias-del-estado`](https://github.com/datos-Fundar/fragmentacion_en_el_estado/blob/main/mapa-de-dependencias-del-estado.ipynb). Este código detalla el proceso de obtención, procesamiento y análisis de los datos.
+Incluimos ejemplos de uso en lenguaje `Python` en el siguiente _Jupyter Notebook_: [`mapa_de_dependencias_del_estado`](https://github.com/datos-Fundar/fragmentacion_en_el_estado/blob/main/mapa_de_dependencias_del_estado.ipynb). Este código detalla el proceso de obtención, procesamiento y análisis de los datos.
 
 En el _Jupyter Notebook_ [`Clusters`](https://github.com/datos-Fundar/fragmentacion_en_el_estado/blob/main/Clusters.ipynb) se aborda la identificación de superposiciones y la visualización de los clusters obtenidos.
 
